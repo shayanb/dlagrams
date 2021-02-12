@@ -1,4 +1,4 @@
-# Dlagrams
+# DlAGRAMS
 
 A collection of icons to be used in Draw.io (http://app.diagrams.net) containing:
 
@@ -17,6 +17,7 @@ A collection of icons to be used in Draw.io (http://app.diagrams.net) containing
 
 - On native apps, Clone this repo, and then import {Library_name.xml} (e.g. `defi.xml`) by going to *file* --> *Open Library*
 
+Still need help? [Work with custom shape libraries](https://desk.draw.io/support/solutions/articles/16000067790-work-with-custom-shape-libraries)
 
 ## Screenshot
 
